@@ -15,7 +15,7 @@ The inventory application is a boutique project developed to handle the specific
 
 ## POM
 
-The POM for these components is based on the [InfrstructureBuilder Parent](https://github.com/infrastructurebuilder/ibparent) and will likely be kept up to the latest version of that.  Specific overrides and requirements for the inventory application will be made in this project.
+The POM for these components is based on the [InfrastructureBuilder Parent](https://github.com/infrastructurebuilder/ibparent) and will likely be kept up to the latest version of that.  Specific overrides and requirements for the inventory application will be made in this project.
 
 ## Build
 
@@ -27,5 +27,5 @@ This application is expected to have a regular (possibly fast) release cadence. 
 
 ## Versioning
 
-This project deals strictly in [Semantic Version](https://semver.org).  Older major versions are extremely likely to go unsupported.
+This project deals strictly in [Semantic Versions](https://semver.org).  Older major versions are extremely likely to go unsupported.
 
