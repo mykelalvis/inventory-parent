@@ -10,6 +10,7 @@ The inventory application is a boutique project developed to handle the specific
 * Keep track of my (multiple) locations for items
 * Make any item a container
 * Store data in the cloud with a local (offline-capable) backup
+* Have a simultaneously available mobile client that handles scanning and image management
 * Allow metatagging
 * Allow for software/virtual assets
 
